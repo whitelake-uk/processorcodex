@@ -1,1 +1,5 @@
 site_name: The Processor Codex
+nav:
+  - Home: index.md
+
+theme: readthedocs  
